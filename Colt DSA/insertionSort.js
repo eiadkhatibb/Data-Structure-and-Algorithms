@@ -11,3 +11,4 @@ function insertionSort() {
 }
 
 console.log(insertionSort);
+console.log("wel[p");
